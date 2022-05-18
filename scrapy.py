@@ -48,11 +48,11 @@ with open('station_id.json','r') as jsonfile:
     stationId = json.load(jsonfile)
 jsonfile.close()
 
-
+s_log = []
 with open('log.json','w+') as jsonfile:
-    s_log = jsonfile
-with open('unfinish.json','w') as unF:
-    print()
+    s = jsonfile
+    jsonfile.close()
+s_log.append(s)
 
 for loop in stationId:
     try:
@@ -61,13 +61,17 @@ for loop in stationId:
         print(stxt)
         stationId = stationId[1:]
     except:
-        json.dump(stationId, unF)
-        json.dump(s_log, jsonfile)
+        with open('unfinish.json','w') as unF:
+            json.dump(stationId, unF)
+            unF.close()
+        with open('log.json','w+') as jsonfile:
+            json.dump(s_log, jsonfile)
+            jsonfile.close()
         break
 print(s_log)
 
-jsonfile.close()
-unF.close()
+
+
 
 
 
