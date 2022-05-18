@@ -1,0 +1,222 @@
+467410臺南 (TAINAN) good
+467420永康 (YONGKANG) good
+467780七股 (QIGU) (撤銷站) stop at [2022, 5]
+C0O810曾文 (Cengwen) good
+C0O830北寮 (Beiliao) good
+C0O840王爺宮 (Wangyegong) good
+C0O860大內 (Danei) good
+C0O900善化 (Shanhua) good
+C0O930玉井 (Yujing) good
+C0O950安南 (Annan) stop at [2020, 10]
+C0O960崎頂 (Qiding) good
+C0O970虎頭埤 (Hutoupi) good
+C0O980新市 (Xinshi) good
+C0O990媽廟 (Mamiao) good
+C0X050東河 (Donghe) good
+C0X060下營 (Xiaying) good
+C0X080佳里 (Jiali) good
+C0X100臺南市北區 (Beiqu Tainan City) good
+C0X110臺南市南區 (Nanqu Tainan City) good
+C0X120麻豆 (Madou) good
+C0X130官田 (Guantian) good
+C0X140西港 (Xigang) good
+C0X150安定 (Anding) good
+C0X160仁德 (Rende) stop at [2021, 8]
+C0X170關廟 (Guanmiao) good
+C0X180山上 (Shanshang) good
+C0X190安平 (Anping) good
+C0X200左鎮 (Zuozhen) good
+C0X210白河 (Baihe) good
+C0X220學甲 (Xuejia) good
+C0X230鹽水 (Yanshui) good
+C0X240關子嶺 (Guanziling) good
+C0X250新營 (Xinying) good
+C0X260後壁 (Houbi) good
+C0X280將軍 (Jiangjun) good
+C0X290北門 (Beimen) good
+C0X300鹿寮 (Luliao) good
+C0X310七股 (Qigu) good
+C0X320柳營 (Liuying) good
+C1N001沙崙 (Shalun) stop at [2022, 5]
+C1O921楠西 (Nanxi) stop at [2022, 5]
+C1O940東山服務區 (Dongshan Service Area) stop at [2022, 5]
+C1O850環湖 (Huanhu) stop at [2022, 5]
+C1O870大棟山 (Dadongshan) stop at [2022, 5]
+C1O880關山 (Guanshan) stop at [2022, 5]
+C1X040東原 (Dongyuan) stop at [2022, 5]
+C1X050東河 (Donghe) (撤銷站) stop at [2022, 5]
+C1X060下營 (Shiaying) (撤銷站) stop at [2022, 5]
+C1X070北門 (Beimen) (撤銷站) stop at [2022, 5]
+C1X090七股 (Ciguliao) (撤銷站) stop at [2022, 5]
+C1X010岸內 (Annei) (撤銷站) stop at [2022, 5]
+C1X030白河 (Baihe) (撤銷站) stop at [2022, 5]
+C1O920楠西 (Nanxi) (撤銷站) stop at [2022, 5]
+C1O860大內 (Danei) (撤銷站) stop at [2022, 5]
+C1O950和順 (Heshun) (撤銷站) stop at [2022, 5]
+C1O960崎頂 (Ciding) (撤銷站) stop at [2022, 5]
+C1O970虎頭埤 (Hutoupi) (撤銷站) stop at [2022, 5]
+C1O980新市 (Xinshi) (撤銷站) stop at [2022, 5]
+C1O990媽廟 (Mazumiao) (撤銷站) stop at [2022, 5]
+C1O820左鎮 (Zuojhen) (撤銷站) stop at [2022, 5]
+C1O830北寮 (Beiliao) (撤銷站) stop at [2022, 5]
+C1O840王爺宮 (Wangyegong) (撤銷站) stop at [2022, 5]
+C1N000沙崙 (Shalun) (撤銷站) stop at [2022, 5]
+C0X270柳營 (Liuying) (撤銷站) stop at [2022, 5]
+C0X020關子嶺 (Guanzihling) (撤銷站) stop at [2022, 5]
+C0O910新營 (Sinying) (撤銷站) stop at [2022, 5]
+467440高雄 (KAOHSIUNG) good
+C0V210復興 (Fuxing) good
+C0V250甲仙 (Jiasian) good
+C0V260月眉 (Yuemei) good
+C0V310美濃 (Meinong) good
+C0V350溪埔 (XIPU) good
+C0V360內門 (Neimen) good
+C0V370古亭坑 (Gutingkeng) good
+C0V400阿公店 (Agongdian) good
+C0V440鳳山 (Fengshan) stop at [2020, 4]
+C0V450鳳森 (Fengsen) good
+C0V490新興 (Sinsing) good
+C0V500旗津 (Cijin) good
+C0V530阿蓮 (Alian) good
+C0V610梓官 (Ziguan) good
+C0V620永安 (Yong'an) good
+C0V630茄萣 (Qieding) good
+C0V640湖內 (Hunei) good
+C0V650彌陀 (Mituo) good
+C0V660岡山 (Gangshan) good
+C0V670楠梓 (Nanzi) good
+C0V680仁武 (Renwu) good
+C0V690鼓山 (Gushan) good
+C0V700三民 (Sanmin) good
+C0V710苓雅 (LingYa) good
+C0V720林園 (Linyuan) good
+C0V730大寮 (Daliao) good
+C0V740旗山 (Qishan) good
+C0V750路竹 (Luzhu) good
+C0V760橋頭 (Qiaotou) good
+C0V770大社 (Dashe) good
+C0V790萬山 (Wanshan) good
+C0V800六龜 (Liugui) good
+C0V810左營 (Zuoying) good
+C0V820小林 (Xiaolin) good
+C1V160達卡努瓦 (Dakanuwa) stop at [2022, 5]
+C1V170排雲 (Paiyun) stop at [2022, 5]
+C1V190南天池 (Nantianchi) stop at [2022, 5]
+C1V200梅山 (Meishan) stop at [2022, 5]
+C1V231高中 (Gaozhong) stop at [2022, 5]
+C1V220小關山 (Xiaoguanshan) stop at [2022, 5]
+C1V300御油山 (Yuyoushan) stop at [2022, 5]
+C1V340大津 (Dajin) stop at [2022, 5]
+C1V390尖山 (Jianshan) stop at [2022, 5]
+C1V570吉東 (JiaDong) stop at [2022, 5]
+C1V580溪南(特生中心) (Xinan) stop at [2022, 5]
+C1V590新發 (Xinfa) stop at [2022, 5]
+C1V600藤枝 (Tengzhi) stop at [2022, 5]
+C1V780多納林道 (Duonalindao) stop at [2022, 5]
+C1V830國三S383K (Freeway No. 3 S383K) stop at [2022, 5]
+C1V400竹子腳 (Jhuzihjiao) (撤銷站) stop at [2022, 5]
+C1V410岡山 (Gangshan) (撤銷站) stop at [2022, 5]
+C1V420鳳雄 (Fongsyong) (撤銷站) stop at [2022, 5]
+C1V430左營 (Zuoying) (撤銷站) stop at [2022, 5]
+C1V440鳳山 (Fongshan) (撤銷站) stop at [2022, 5]
+C1V450鳳森 (Fongsen) (撤銷站) stop at [2022, 5]
+C1V451鳳森 (Fongsen) (撤銷站) stop at [2022, 5]
+C1V460楠溪 (Nanxi) (撤銷站) stop at [2022, 5]
+C1V530阿蓮 (Alian) (撤銷站) stop at [2022, 5]
+C1V350溪埔 (Sipu) (撤銷站) stop at [2022, 5]
+C1V360木柵 (Mujha) (撤銷站) stop at [2022, 5]
+C1V380路竹 (Lujhu) (撤銷站) stop at [2022, 5]
+C1V320吉東 (Jidong) (撤銷站) stop at [2022, 5]
+C1V330旗山 (Cishan) (撤銷站) stop at [2022, 5]
+C1V230高中 (Gaozhong) (撤銷站) stop at [2022, 5]
+C1V240新發 (Sinfa) (撤銷站) stop at [2022, 5]
+C1V260月眉 (Yuemei) (撤銷站) stop at [2022, 5]
+C1V270溪南 (Sinan) (撤銷站) stop at [2022, 5]
+C1V290新集 (Sinji) (撤銷站) stop at [2022, 5]
+C1V210復興 (Fuxing) (撤銷站) stop at [2022, 5]
+C1V180大寮 (Daliao) (撤銷站) stop at [2022, 5]
+C1P9A0三爺 (Sanye) (撤銷站) stop at [2022, 5]
+C0V430左營 (Zuoying) (撤銷站) stop at [2022, 5]
+467590恆春 (HENGCHUN) good
+C0R510萬丹 (WanDan) good
+C0R520崁頂 (Kanding) stop at [2021, 10]
+C0R530林邊 (Linbian) good
+C0R540佳冬 (Jiadong) good
+C0R550新埤 (Xinpi) good
+C0R560新園 (Xinyuan) good
+C0R570麟洛 (Linluo) good
+C0R580南州 (Nanzhou) good
+C0R590里港 (Ligang) stop at [2022, 1]
+C0R600舊泰武 (Jiutaiwu) good
+C0R620墾雷 (Kenlei) good
+C0R640東港 (Donggang) good
+C0R650竹田 (Zhutian) good
+C0R660枋寮 (Fangliao) good
+C0R670楓港 (Fenggang) good
+C0R680佳樂水 (Jialeshui) good
+C0R690墾丁 (Kenting) good
+C0R700枋山 (Fangshan) good
+C0R710龍磐 (Longpan) stop at [2020, 4]
+C0R720旭海 (Xuhai) good
+C0R730大坪頂 (Dapingding) stop at [2020, 4]
+C0R740獅子 (Shizi) stop at [2020, 4]
+C0R750四林格山 (Silingeshan) stop at [2020, 8]
+C0R760南仁湖 (Nanrenhu) stop at [2020, 4]
+C0R770保力 (Baoli) stop at [2020, 4]
+C0R780滿州 (Manzhou) stop at [2020, 4]
+C0R790九棚 (Jiupeng) stop at [2020, 4]
+C0R800丹路 (Danlu) stop at [2020, 4]
+C0R810內獅 (Neishi) stop at [2020, 4]
+C0R820白鷺 (Bailu) stop at [2020, 4]
+C0R830高士 (Gaoshi) stop at [2020, 4]
+C0R840牡丹池山 (Mudanchisahn) stop at [2020, 9]
+C0R100尾寮山 (Weiliaoshan) stop at [2022, 5]
+C0R130阿禮 (Ali) good
+C0R140瑪家 (Majia) good
+C0R150三地門 (Sandimen) good
+C0R160鹽埔 (yanpuxinwei) good
+C0R170屏東 (Pingdong) good
+C0R190赤山 (Chishan) good
+C0R220潮州 (Chaojhou) good
+C0R240來義 (Laiyi) good
+C0R260春日 (Chunri) good
+C0R270琉球嶼 (Liouciouyu) good
+C0R280檳榔 (Binlang) good
+C0R320車城 (Checheng) good
+C0R341牡丹 (Mudan) stop at [2021, 10]
+C0R350貓鼻頭 (Maobitou) good
+C0R440大漢山 (Dahanshan) good
+C0R470高樹 (Gaoshu) good
+C0R480長治 (Changzhi) good
+C0R490九如 (Jiuru) stop at [2021, 10]
+C1R110口社 (Gusia) stop at [2022, 5]
+C1R120上德文 (Shangdewun) stop at [2022, 5]
+C1R290石門山 (Shihmenshan) stop at [2022, 5]
+C1R610西大武山 (Xidawushan) stop at [2022, 5]
+C1R630龍泉 (Longquan) stop at [2022, 5]
+C1R250力里 (Lili) stop at [2022, 5]
+C1R260春日 (Chunrih) (撤銷站) stop at [2022, 5]
+C1R300旭海 (Syuhai) (撤銷站) stop at [2022, 5]
+C1R310壽卡 (Shouka) (撤銷站) stop at [2022, 5]
+C1R320車城 (Checheng) (撤銷站) stop at [2022, 5]
+C1R330枋山 (Fangshan) (撤銷站) stop at [2022, 5]
+C1R340牡丹 (Mudan) (撤銷站) stop at [2022, 5]
+C1R440大漢山 (Da-Han_Shan) (撤銷站) stop at [2022, 5]
+C1R130阿禮 (Ali) (撤銷站) stop at [2022, 5]
+C1R140瑪家 (Majia) (撤銷站) stop at [2022, 5]
+C1R160新圍 (Xinwei) (撤銷站) stop at [2022, 5]
+C1R170屏東 (Pingtung) (撤銷站) stop at [2022, 5]
+C1R190赤山 (Chihshan) (撤銷站) stop at [2022, 5]
+C1R200龍泉 (Longquan) (撤銷站) stop at [2022, 5]
+C1R201龍泉 (Longquan) (撤銷站) stop at [2022, 5]
+C1R210麟洛 (Linluo) (撤銷站) stop at [2022, 5]
+C1R230南州 (Nanjhou) (撤銷站) stop at [2022, 5]
+C1R240來義 (Laiyi) (撤銷站) stop at [2022, 5]
+C1R090里港 (Ligang) (撤銷站) stop at [2022, 5]
+C0R500竹田 (Zhutian) (撤銷站) stop at [2022, 5]
+C0R360墾丁 (Kenting) (撤銷站) stop at [2022, 5]
+C0R370佳樂水 (Jialeshuei) (撤銷站) stop at [2022, 5]
+C0R380枋寮 (Fangliao) (撤銷站) stop at [2022, 5]
+C0R400楓港 (Fongkung) (撤銷站) stop at [2022, 5]
+C0R420牡丹池山 (Mudanchihshan) (撤銷站) stop at [2022, 5]
+C0R430東港 (Donggang) (撤銷站) stop at [2022, 5]
