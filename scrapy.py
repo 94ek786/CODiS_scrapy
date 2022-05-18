@@ -44,7 +44,7 @@ browser.maximize_window()
 time.sleep(20)
 
 #讀取station_id.json
-with open('station_id.json','r') as jsonfile:
+with open('data.json','r') as jsonfile:
     stationId = json.load(jsonfile)
 jsonfile.close()
 
@@ -65,6 +65,7 @@ for loop in stationId:
             json.dump(stationId, unF)
             unF.close()
         with open('log.json','w+') as jsonfile:
+            print(s_log)
             json.dump(s_log, jsonfile)
             jsonfile.close()
         break
