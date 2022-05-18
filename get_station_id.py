@@ -25,4 +25,5 @@ for loop in range(city_len):
 #存id資料
 with open('station_id.json','w') as jsonfile:
     json.dump(station_data, jsonfile)
+jsonfile.close()
     
