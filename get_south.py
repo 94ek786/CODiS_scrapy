@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 import time
 import json
 
-city = ['臺南市', '高雄市', '屏東縣']
 s_ = []
 
 def Fstation(val):
@@ -21,6 +20,7 @@ def Fstation(val):
     return station_data
 
 
+city = ['臺南市', '高雄市', '屏東縣']
 browser = webdriver.Chrome(executable_path='C:\\driver\\chromedriver.exe')
 browser.get('https://e-service.cwb.gov.tw/HistoryDataQuery/')
 time.sleep(3)

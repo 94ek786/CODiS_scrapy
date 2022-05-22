@@ -1,13 +1,13 @@
 import pandas as pd
 import copy
 
+
 train = [[2020, 1], [2022, 1]]
 test = [[2022, 1], [2022,6]]
 M_T = ['00','01','02','03','04','05','06','07','08','09','10','11','12']
 
 def data(time_range):
     df = pd.DataFrame()
-
     loop = copy.deepcopy(time_range[0])
     while(loop != time_range[1]):
         df1 = pd.read_csv('south_station/C0R570-' + str(loop[0]) + '-' + M_T[loop[1]] + '.csv')

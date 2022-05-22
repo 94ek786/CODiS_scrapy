@@ -9,9 +9,6 @@ from sklearn.metrics import r2_score
 from scipy.ndimage import gaussian_filter1d
 from scipy.signal import medfilt
 
-#預測輸入的時間戳記數(天)
-n_timestamp = 10
-
 np.random.seed(11)
 
 train_set = pd.read_csv('train.csv')
@@ -30,6 +27,9 @@ sc = MinMaxScaler(feature_range = (0, 1))
 training_set_scaled = sc.fit_transform(training_set)
 testing_set_scaled = sc.fit_transform(testing_set)
 
+#預測輸入的時間戳記數(天)
+n_timestamp = 10
+#時間戳記數
 def data_split(sequence, n_timestamp):
     X = []
     y = []
@@ -54,12 +54,13 @@ model.add(LSTM(50, activation='relu', return_sequences=True, input_shape=(X_trai
 model.add(Dropout(0.15))
 model.add(LSTM(50, activation='relu'))
 model.add(Dense(1))
-model.compile(optimizer = 'adam', loss = 'mean_squared_error', metrics=['accuracy'])
+model.compile(optimizer = 'adam', loss = 'mean_squared_error')
 
 history = model.fit(X_train, y_train, epochs = 50, batch_size = 32)
 loss = history.history['loss']
 epochs = range(len(loss))
 
+#預測
 y_predicted = model.predict(X_test)
 
 #De-normalize

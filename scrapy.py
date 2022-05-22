@@ -19,7 +19,8 @@ def is_float(value):
 def sc(i):
     loop_time = copy.deepcopy(time_range[0])
     while(loop_time != time_range[1]):
-        browser.get('https://e-service.cwb.gov.tw/HistoryDataQuery/MonthDataController.do?command=viewMain&station=' + str(i[0]) + '&stname=%25E9%259E%258D%25E9%2583%25A8&datepicker=' + str(loop_time[0]) + '-' + M_T[loop_time[1]] + '&altitude=0m')
+        browser.get('https://e-service.cwb.gov.tw/HistoryDataQuery/MonthDataController.do?command=viewMain&station=' + str(i[0]) + '\
+            &stname=%25E9%259E%258D%25E9%2583%25A8&datepicker=' + str(loop_time[0]) + '-' + M_T[loop_time[1]] + '&altitude=0m')
         time.sleep(3)
         #判斷該月第一天是否有資料
         if(is_float(browser.find_element_by_xpath('//*[@id="MyTable"]/tbody/tr[4]/td[8]').text)):
