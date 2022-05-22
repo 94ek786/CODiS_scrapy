@@ -1,7 +1,2 @@
-
-import json
-
-with open('south_station.json','r') as jsonfile:
-    stationId = json.load(jsonfile)
-jsonfile.close()
-print(len(stationId[0]) + len(stationId[1]) + len(stationId[2]))
+import tensorflow as tf
+print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
