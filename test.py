@@ -1,8 +1,4 @@
-import json
-
-with open('data.json','r') as jsonfile:
-    stationId = json.load(jsonfile)
-jsonfile.close()
-
-for i in stationId:
-    print(i)
+from tensorflow.python.client import device_lib
+import tensorflow as tf
+print(device_lib.list_local_devices())
+print(tf.test.is_built_with_cuda())
